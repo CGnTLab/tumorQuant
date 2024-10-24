@@ -1,0 +1,121 @@
+GM Anterior intra-parietal sulcus hIP1 L
+GM Anterior intra-parietal sulcus hIP1 R
+GM Anterior intra-parietal sulcus hIP2 L
+GM Anterior intra-parietal sulcus hIP2 R
+GM Anterior intra-parietal sulcus hIP3 L
+GM Anterior intra-parietal sulcus hIP3 R
+GM Amygdala_centromedial group L
+GM Amygdala_centromedial group R
+GM Amygdala_laterobasal group L
+GM Amygdala_laterobasal group R
+GM Amygdala_superficial group L
+GM Amygdala_superficial group R
+GM Broca's area BA44 L
+GM Broca's area BA44 R
+GM Broca's area BA45 L
+GM Broca's area BA45 R
+GM Hippocampus cornu ammonis L
+GM Hippocampus cornu ammonis R
+GM Hippocampus entorhinal cortex L
+GM Hippocampus entorhinal cortex R
+GM Hippocampus dentate gyrus L
+GM Hippocampus dentate gyrus R
+GM Hippocampus hippocampal-amygdaloid transition area L
+GM Hippocampus hippocampal-amygdaloid transition area R
+GM Hippocampus subiculum L
+GM Hippocampus subiculum R
+GM Inferior parietal lobule PF L
+GM Inferior parietal lobule PF R
+GM Inferior parietal lobule PFcm L
+GM Inferior parietal lobule PFcm R
+GM Inferior parietal lobule PFm L
+GM Inferior parietal lobule PFm R
+GM Inferior parietal lobule PFop L
+GM Inferior parietal lobule PFop R
+GM Inferior parietal lobule PFt L
+GM Inferior parietal lobule PFt R
+GM Inferior parietal lobule Pga L
+GM Inferior parietal lobule Pga R
+GM Inferior parietal lobule PGp L
+GM Inferior parietal lobule PGp R
+GM Primary auditory cortex TE1.0 L
+GM Primary auditory cortex TE1.0 R
+GM Primary auditory cortex TE1.1 L
+GM Primary auditory cortex TE1.1 R
+GM Primary auditory cortex TE1.2 L
+GM Primary auditory cortex TE1.2 R
+GM Primary motor cortex BA4a L
+GM Primary motor cortex BA4a R
+GM Primary motor cortex BA4p L
+GM Primary motor cortex BA4p R
+GM Primary somatosensory cortex BA1 L
+GM Primary somatosensory cortex BA1 R
+GM Primary somatosensory cortex BA2 L
+GM Primary somatosensory cortex BA2 R
+GM Primary somatosensory cortex BA3a L
+GM Primary somatosensory cortex BA3a R
+GM Primary somatosensory cortex BA3b L
+GM Primary somatosensory cortex BA3b R
+GM Secondary somatosensory cortex / Parietal operculum OP1 L
+GM Secondary somatosensory cortex / Parietal operculum OP1 R
+GM Secondary somatosensory cortex / Parietal operculum OP2 L
+GM Secondary somatosensory cortex / Parietal operculum OP2 R
+GM Secondary somatosensory cortex / Parietal operculum OP3 L
+GM Secondary somatosensory cortex / Parietal operculum OP3 R
+GM Secondary somatosensory cortex / Parietal operculum OP4 L
+GM Secondary somatosensory cortex / Parietal operculum OP4 R
+GM Superior parietal lobule 5Ci L
+GM Superior parietal lobule 5Ci R
+GM Superior parietal lobule 5L L
+GM Superior parietal lobule 5L R
+GM Superior parietal lobule 5M L
+GM Superior parietal lobule 5M R
+GM Superior parietal lobule 7A L
+GM Superior parietal lobule 7A R
+GM Superior parietal lobule 7M L
+GM Superior parietal lobule 7M R
+GM Superior parietal lobule 7PC L
+GM Superior parietal lobule 7PC R
+GM Superior parietal lobule 7P L
+GM Superior parietal lobule 7P R
+GM Visual cortex V1 BA17 L
+GM Visual cortex V1 BA17 R
+GM Visual cortex V2 BA18 L
+GM Visual cortex V2 BA18 R
+GM Visual cortex V3V L
+GM Visual cortex V3V R
+GM Visual cortex V4 L
+GM Visual cortex V4 R
+GM Visual cortex V5 L
+GM Visual cortex V5 R
+GM Premotor cortex BA6 L
+GM Premotor cortex BA6 R
+WM Acoustic radiation R
+WM Acoustic radiation L
+WM Callosal body
+WM Cingulum R
+WM Cingulum L
+WM Corticospinal tract R
+WM Corticospinal tract L
+WM Fornix
+WM Inferior occipito-frontal fascicle R
+WM Inferior occipito-frontal fascicle L
+GM Lateral geniculate body R
+GM Lateral geniculate body L
+GM Mamillary body
+GM Medial geniculate body R
+GM Medial geniculate body L
+WM Optic radiation R
+WM Optic radiation L
+WM Superior longitudinal fascicle R
+WM Superior longitudinal fascicle L
+WM Superior occipito-frontal fascicle R
+WM Superior occipito-frontal fascicle L
+WM Uncinate fascicle R
+WM Uncinate fascicle L
+GM Insula Id1 L
+GM Insula Id1 R
+GM Insula Ig1 L
+GM Insula Ig1 R
+GM Insula Ig2 L
+GM Insula Ig2 R
