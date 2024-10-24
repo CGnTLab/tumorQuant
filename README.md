@@ -18,13 +18,39 @@ Before using **tumorQuant**, ensure you have the following installed and set up:
 
 To install **tumorQuant**, follow these steps:
 
-### Step 1: Clone the Repository
+### Clone the Repository
 
 Run the following command in your terminal:
 
 ```bash
 git clone https://github.com/CGnTLab/tumorQuant.git
 ```
-### Step 1: Clone the Repository
-
+### Navigate to the Directory
+```bash
 cd tumorQuant
+```
+
+### Run the Installation Script
+```bash
+./install.sh
+```
+
+### Volume Extraction Command
+```bash
+tumorQuant -n SampleName -s /path/to/TumorSegment.nii.gz -t1 /path/to/MRI_t1.nii.gz -a atlas -o /path/to/output
+```
+
+### Example Code
+
+Here’s an example of how to use tumorQuant:
+```bash
+tumorQuant -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/example/Sample1/Sample1_t1.nii.gz -a all -o ./Sample1_output
+```
+---
+
+## Developer
+**Kavita Kundal**
+CG&T Lab, Indian Institute of Technology Hyderabad
+
+
+
