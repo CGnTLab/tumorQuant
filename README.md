@@ -48,9 +48,11 @@ tumorQuant -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/ex
 ```
 ---
 
-## Developer
-**Kavita Kundal**
-CG&T Lab, Indian Institute of Technology Hyderabad
+## Developer Section
+
+**Kavita Kundal**  
+**CG&T Lab, Indian Institute of Technology Hyderabad**
+
 
 
 
