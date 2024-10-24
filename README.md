@@ -6,9 +6,11 @@
 
 ## Prerequisites
 
+**Note:** This package will only run on Unix/Ubuntu systems and is not developed for other operating systems.
+
 Before using **tumorQuant**, ensure you have the following installed and set up:
 
-1. **FSL** installed on your system (command name: `fsl`)
+1. **[FSL](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/linux)**installed on your system (folder name: `fsl`)
 2. T1 MRI images for accurate outputs
 3. Segmented tumor images
 
