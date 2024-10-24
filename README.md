@@ -1,4 +1,4 @@
-# tumorQuant
+<h1 style="font-size: 2.5em; color: #2c3e50;">tumorQuant</h1>
 
 **tumorQuant** is a package designed for the accurate quantification of brain tumor volumes from different brain regions using MRI scans. It provides user-friendly functions for volumetric analysis, integrating standard atlases and offering efficient data for radiogenomics research.
 
@@ -50,7 +50,7 @@ tumorQuant -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/ex
 ```
 ---
 
-## Developer Section
+## Developer
 
 **Kavita Kundal**  
 **CG&T Lab, Indian Institute of Technology Hyderabad**
