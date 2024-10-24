@@ -36,6 +36,15 @@ cd tumorQuant
 ```bash
 ./install.sh
 ```
+*Close the current terminal and reopen it for the environment changes to take effect.*
+
+#### To check if tumorQuant is installed correctly, run the following command:
+```bash
+tumorQuant -h
+```
+Following will be displayed:
+
+![TumorQuant Help Output](tumorQuant_help.png)
 
 ### Volume Extraction Command
 ```bash
