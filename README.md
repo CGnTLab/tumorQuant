@@ -58,7 +58,18 @@ Here’s an example of how to use tumorQuant:
 tumorQuant -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/example/Sample1/Sample1_t1.nii.gz -a all -o ./Sample1_output
 ```
 ---
+### Output Interpretation
+#### [Atlases Used]([https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/linux](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/other/datasets)
+**MNI** atlas : 9 Brain Regions
+**Juelich** atlas : 121 Brain Regions
+**Talairach** atlas : 1105 Brain Regions
+**Harvard-Subcoritcal** : 21 Brain Regions
 
+| Regions | Volume |
+|---------|--------|
+|         |        |
+
+---
 ## Developer
 
 **Kavita Kundal**  
