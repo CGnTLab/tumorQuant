@@ -1,4 +1,4 @@
-# tumorQuant
+# tumorQuant : Tumor Volume Quantification
 
 **tumorQuant** is a package designed for the accurate quantification of brain tumor volumes from different brain regions using MRI scans. It provides user-friendly functions for volumetric analysis, integrating standard atlases and offering efficient data for radiogenomics research.
 
@@ -6,7 +6,7 @@
 
 ## Prerequisites
 
-**Note:** This package will only run on Unix/Ubuntu systems and is not developed for other operating systems.
+**Note:** This package will only run on Unix/Ubuntu systems and has not been developed for other operating systems.
 
 Before using **tumorQuant**, ensure you have the following installed and set up:
 
