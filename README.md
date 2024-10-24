@@ -59,7 +59,7 @@ tumorQuant -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/ex
 ```
 ---
 ### Output Interpretation
-#### **[Atlases Used](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/linux](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/other/datasets)**
+#### [Atlases Used](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/other/datasets)
 
 **MNI** atlas : 9 Brain Regions
 
