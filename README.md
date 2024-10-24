@@ -24,5 +24,7 @@ Run the following command in your terminal:
 
 ```bash
 git clone https://github.com/CGnTLab/tumorQuant.git
+```
+### Step 1: Clone the Repository
 
 cd tumorQuant
