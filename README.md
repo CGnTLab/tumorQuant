@@ -44,7 +44,7 @@ tumorVQ -h
 ```
 Following will be displayed:
 
-![tumorVQ Help Output](data/misc/tumorQuant_help.png)
+![tumorVQ Help Output](data/misc/tumorVQ_help.png)
 
 ### Volume Extraction Command
 ```bash
