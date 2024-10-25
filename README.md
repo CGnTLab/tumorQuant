@@ -61,13 +61,15 @@ tumorQuant -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/ex
 ### Output Interpretation
 #### [Atlases Used](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/other/datasets)
 
-**MNI** atlas : 9 Brain Regions
+**MNI** atlas : 9 Brain Regions (approx 2min)
 
-**Juelich** atlas : 121 Brain Regions
+**Juelich** atlas : 121 Brain Regions (approx 3min)
 
-**Talairach** atlas : 1105 Brain Regions
+**Talairach** atlas : 1105 Brain Regions (approx 15min)
 
-**Harvard-Subcoritcal** : 21 Brain Regions
+**Harvard-Subcoritcal** : 21 Brain Regions (approx 2min)
+
+*All altases will take 15min for successful completion*
 
 Output table will have three columns:
 
