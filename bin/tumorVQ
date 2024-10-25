@@ -3,7 +3,7 @@
 # Define the base directory where the scripts are located
 BASE_DIR="$(dirname "$(readlink -f "$0")")"
 # Function to display usage information
-#"This script is designed to facilitate the extraction of brain tumor volumes from different regions of brain from MRI images."
+#"This package is designed to facilitate the extraction of brain tumor volumes from different regions of brain from MRI images."
 #"It automates the process of identifying tumor regions based on specified parameters and "
 #"calculates the volume of these regions to aid in clinical assessments and research."
 #""
@@ -19,7 +19,7 @@ usage() {
     echo -e "\033[1;34m  		##  				     ##\033[0m"
 
     # Blink the header text 5 times
-    text="##  BRAIN TUMOR VOLUME EXTRACTION    ##"
+    text="##  BRAIN TUMOR VOLUME Quantification    ##"
     blink_count=1  # Number of blinks
     delay=0.7      
 
@@ -34,7 +34,7 @@ usage() {
     echo -e "\033[3m\"This package (developed by Kavita Kundal, CG&T Lab - IIT Hyderabad) facilitates the calculation of tumor volumes across four brain atlases: MNI, Juelich, Talairach, and Harvard-Subcortical. The initial step involves normalizing and transforming both the segmented tumor image and the T1-weighted image to align with a reference brain T1 image. Following this, the package accurately quantifies tumor volumes within the specified regions.\033[0m"
 
     echo -e ""
-    echo -e "\033[1;31mUsage: tumorQuant -n <sample> -s <segmented_tumor.nii.gz> -t1 <t1_image.nii.gz> -a <atlas_type> -o <output_directory>\033[0m"
+    echo -e "\033[1;31mUsage: tumorVQ -n <sample> -s <segmented_tumor.nii.gz> -t1 <t1_image.nii.gz> -a <atlas_type> -o <output_directory>\033[0m"
     echo -e ""
     echo "Options:"
     echo -e "  		\033[1;36m-n, --sample\033[0m     	  Sample name"
@@ -96,7 +96,7 @@ done
 
 # Check if required arguments are provided
 if [ -z "$sample" ] || [ -z "$segmented_tumor" ] || [ -z "$t1_image" ] || [ -z "$atlas_type" ] || [ -z "$output_dir" ]; then
-    echo "Usage: tumorQuant -n <sample> -s <segmented_tumor.nii.gz> -t1 <t1_image.nii.gz> -a <atlas_type> -o <output_directory>"
+    echo "Usage: tumorVQ -n <sample> -s <segmented_tumor.nii.gz> -t1 <t1_image.nii.gz> -a <atlas_type> -o <output_directory>"
     exit 1
 fi
 # Set default output directory if not provided
