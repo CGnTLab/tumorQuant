@@ -29,7 +29,7 @@ git clone https://github.com/CGnTLab/tumorVQ.git
 ```
 ### Navigate to the Directory
 ```bash
-cd tumorQuant
+cd tumorVQ
 ```
 
 ### Run the Installation Script
