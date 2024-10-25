@@ -16,7 +16,7 @@ usage() {
     echo -e ""
     echo -e ""
     echo -e "\033[1;34m  		###########################################\033[0m"
-    echo -e "\033[1;34m  		##  				     ##\033[0m"
+    echo -e "\033[1;34m  		##  				         ##\033[0m"
 
     # Blink the header text 5 times
     text="##  BRAIN TUMOR VOLUME Quantification    ##"
@@ -27,7 +27,7 @@ usage() {
         echo -e "\033[1;34m		$text\033[0m"  # Print blinking text
         #sleep $delay  # Pause for the delay
     done
-    echo -e "\033[1;34m  		##				     ##\033[0m"
+    echo -e "\033[1;34m  		##				         ##\033[0m"
     echo -e "\033[1;34m  		###########################################\033[0m"
     echo -e ""
     #echo -e "\033[3m\"Developer: Kavita Kundal\033[0m"
@@ -111,7 +111,7 @@ fi
 echo -e ""
 echo -e ""
 echo -e "\033[1;33m  		###########################################\033[0m"
-echo -e "\033[1;33m  		##  				     ##\033[0m"
+echo -e "\033[1;33m  		##  				         ##\033[0m"
 
     # Blink the header text 5 times
 text="##  BRAIN TUMOR VOLUME QUANTIFICATION    ##"
@@ -122,7 +122,7 @@ for ((i=0; i<blink_count; i++)); do
    echo -e "\033[1;33m		$text\033[0m"  # Print blinking text
    #sleep $delay 
 done
-echo -e "\033[1;33m  		##				     ##\033[0m"
+echo -e "\033[1;33m  		##				         ##\033[0m"
 echo -e "\033[1;33m  		###########################################\033[0m"
 echo -e ""
 echo -e "\033[3;36m\"TThis package (developed by Kavita Kundal, CG&T Lab - IIT Hyderabad) facilitates the calculation of tumor volumes across four brain atlases: MNI, Juelich, Talairach, and Harvard-Subcortical. The initial step involves normalizing and transforming both the segmented tumor image and the T1-weighted image to align with a reference brain T1 image. Following this, the package accurately quantifies tumor volumes within the specified regions.\"\033[0m"
