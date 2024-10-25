@@ -14,9 +14,9 @@ echo 'export PATH="'${INSTALL_DIR}'/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 
 #echo $INSTALL_DIR
-echo "tumorQuant installed successfully."
+echo "tumorVQ installed successfully."
 echo ""
-echo "Run \"tumorQuant -h\" to check package information"
+echo "Run \"tumorVQ -h\" to check package information"
 
 echo "Open a new terminal, or log out and log back in, for the environment
 changes to take effect."
