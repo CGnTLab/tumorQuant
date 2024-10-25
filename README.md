@@ -1,6 +1,6 @@
-# tumorQuant : Tumor Volume Quantification
+# tumorVQ : Tumor Volume Quantification
 
-**tumorQuant** is a package designed for the accurate quantification of **brain tumor volumes** from different brain regions using MRI scans. It provides user-friendly functions for volumetric analysis, integrating standard atlases and offering efficient data for radiogenomics research.
+**tumorVQ** is a package designed for the accurate quantification of **brain tumor volumes** from different brain regions using MRI scans. It provides user-friendly functions for volumetric analysis, integrating standard atlases and offering efficient data for radiogenomics research.
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Note:** This package will only run on Unix/Ubuntu systems and has not been developed for other operating systems.
 
-Before using **tumorQuant**, ensure you have the following installed and set up:
+Before using **tumorVQ**, ensure you have the following installed and set up:
 
 1. **[FSL](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/linux)**installed on your system (folder name: `fsl`)
 2. T1 MRI images for accurate outputs
@@ -18,14 +18,14 @@ Before using **tumorQuant**, ensure you have the following installed and set up:
 
 ## Usage
 
-To install **tumorQuant**, follow these steps:
+To install **tumorVQ**, follow these steps:
 
 ### Clone the Repository
 
 Run the following command in your terminal:
 
 ```bash
-git clone https://github.com/CGnTLab/tumorQuant.git
+git clone https://github.com/CGnTLab/tumorVQ.git
 ```
 ### Navigate to the Directory
 ```bash
@@ -40,22 +40,22 @@ cd tumorQuant
 
 #### To check if tumorQuant is installed correctly, run the following command:
 ```bash
-tumorQuant -h
+tumorVQ -h
 ```
 Following will be displayed:
 
-![TumorQuant Help Output](data/misc/tumorQuant_help.png)
+![tumorVQ Help Output](data/misc/tumorQuant_help.png)
 
 ### Volume Extraction Command
 ```bash
-tumorQuant -n SampleName -s /path/to/TumorSegment.nii.gz -t1 /path/to/MRI_t1.nii.gz -a atlas -o /path/to/output
+tumorVQ -n SampleName -s /path/to/TumorSegment.nii.gz -t1 /path/to/MRI_t1.nii.gz -a atlas -o /path/to/output
 ```
 
 ### Example Code
 
 Here’s an example of how to use tumorQuant:
 ```bash
-tumorQuant -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/example/Sample1/Sample1_t1.nii.gz -a all -o ./Sample1_output
+tumorVQ -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/example/Sample1/Sample1_t1.nii.gz -a all -o ./Sample1_output
 ```
 ---
 ### Output Interpretation
