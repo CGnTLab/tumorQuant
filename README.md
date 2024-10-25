@@ -38,7 +38,7 @@ cd tumorVQ
 ```
 *Close the current terminal and reopen it for the environment changes to take effect.*
 
-#### To check if tumorQuant is installed correctly, run the following command:
+#### To check if tumorVQ is installed correctly, run the following command:
 ```bash
 tumorVQ -h
 ```
@@ -53,7 +53,7 @@ tumorVQ -n SampleName -s /path/to/TumorSegment.nii.gz -t1 /path/to/MRI_t1.nii.gz
 
 ### Example Code
 
-Here’s an example of how to use tumorQuant:
+Here’s an example of how to use tumorVQ:
 ```bash
 tumorVQ -n Sample1 -s ./data/example/Sample1/Sample1_seg.nii.gz -t1 ./data/example/Sample1/Sample1_t1.nii.gz -a all -o ./Sample1_output
 ```
