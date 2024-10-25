@@ -126,7 +126,7 @@ echo -e "\033[1;33m  		##				     ##\033[0m"
 echo -e "\033[1;33m  		#######################################\033[0m"
 echo -e ""
 echo -e "\033[3;36m\"TThis package (developed by Kavita Kundal, CG&T Lab - IIT Hyderabad) facilitates the calculation of tumor volumes across four brain atlases: MNI, Juelich, Talairach, and Harvard-Subcortical. The initial step involves normalizing and transforming both the segmented tumor image and the T1-weighted image to align with a reference brain T1 image. Following this, the package accurately quantifies tumor volumes within the specified regions.\"\033[0m"
-echo -e "\033[3;34m\"For more information go to : LINK.\"\033[0m"
+echo -e "\033[3;34m\"For more information go to : https://github.com/CGnTLab/tumorQuant.git.\"\033[0m"
 
 echo -e ""
 echo ""
