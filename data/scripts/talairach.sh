@@ -20,7 +20,7 @@ output_dir=$3
 #mkdir -p $output_dir
 
 # Loop through the "mni" atlases
-for i in $(seq 1 100); do
+for i in $(seq 1 1105); do
     # Multiply the extracted region with the atlas
     fslmaths $atlas_dir/talairach_$i.nii.gz \
         -mul $segmented_tumor \
