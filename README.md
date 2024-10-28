@@ -1,5 +1,5 @@
 # tumorVQ : Tumor Volume Quantification
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Version](https://img.shields.io/badge/version-1.0.0-orange) ![Views](https://img.shields.io/badge/views-123-blue) ![Downloads](https://img.shields.io/github/downloads/CGnTLab/tumorVQ/total)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Version](https://img.shields.io/badge/version-1.0.0-orange) 
 
 
 **tumorVQ** is a package designed for the accurate quantification of **brain tumor volumes** from different brain regions using MRI scans. It provides user-friendly functions for volumetric analysis, integrating standard atlases and offering efficient data for radiogenomics research.
